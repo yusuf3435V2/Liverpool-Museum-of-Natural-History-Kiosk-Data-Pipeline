@@ -1,0 +1,8 @@
+python-dotenv
+boto3
+postgres
+pandas
+psycopg2-binary
+pylint
+altair
+confluent-kafka
